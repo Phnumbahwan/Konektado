@@ -1,0 +1,2 @@
+# Konektado
+Django App
